@@ -1,4 +1,4 @@
-// in this program we convert a double variable to integer.
+ // in this program we convert a double variable to integer.
 
 using System;
 
@@ -14,7 +14,8 @@ namespace ToConvert
             Console.WriteLine(convertedNo);
         }
     }
-}
+} 
+
 
 
 // output  :   51
