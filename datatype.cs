@@ -22,3 +22,6 @@ namespace Datatypes
            
     }
 }
+
+
+// there is also a datatype called void in this language, make sure to use it.
