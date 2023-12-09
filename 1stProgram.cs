@@ -34,10 +34,10 @@ namespace helloworld
                void ->  datatype "void" in the contect of Main method means that the Main function does 
                           not return anything.
 
-
-*/
-
                 Main -> the Main method indicates that the code will start executing for here.
 
      Line 14 : "Console.WriteLine()" method is used to print the text inside its curly brackets.
                  ';' -> indicates that the statement ends here.
+
+
+*/
