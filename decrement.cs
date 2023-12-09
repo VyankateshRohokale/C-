@@ -1,4 +1,4 @@
-// in this program we decrement the variable.
+// in this program we decreament the variable.
 
 using System;
 
