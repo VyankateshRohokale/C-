@@ -1,3 +1,9 @@
+/*
+    In this program we use default parameters .
+*/
+
+
+
 using System;
 
 namespace methods
