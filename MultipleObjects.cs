@@ -1,3 +1,8 @@
+/*
+    In this program we make multiple objects of our class.
+*/
+
+
 using System;
 
 namespace program
