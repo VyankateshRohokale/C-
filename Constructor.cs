@@ -1,3 +1,5 @@
+// in this program we use contructor in our program
+
 using System;
 
 namespace program
