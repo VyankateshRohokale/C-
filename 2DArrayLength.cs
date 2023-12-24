@@ -1,6 +1,6 @@
 /* in this program we count the length of the 2D array without using inbuild function.
 
-    to find the length of the 2D array using inbuild function refer " 2DArrayLength2.cs "
+    to find the length of the 2D array using inbuild function refer " 2DArrayLength2.cs ."
 
 */
 
