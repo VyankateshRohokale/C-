@@ -1,6 +1,6 @@
 /*
 
-    In this program we write the code for finding the maximum number in the array.
+    In this program we write the code for finding the maximum number in the array...
 
 */
 
