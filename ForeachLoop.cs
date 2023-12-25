@@ -1,3 +1,5 @@
+// this program tells about ForeachLoop
+
 using System;
 
 namespace loop
