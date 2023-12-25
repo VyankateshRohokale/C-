@@ -1,3 +1,5 @@
+// this program tells about IfStatement in C#
+
 using System;
 
 namespace statements
