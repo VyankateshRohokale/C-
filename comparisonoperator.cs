@@ -1,3 +1,5 @@
+// this program is about comparison operator in C#
+
 using System;
 
 namespace comparison
