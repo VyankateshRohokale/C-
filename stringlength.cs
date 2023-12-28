@@ -1,6 +1,6 @@
 // this program is about finding string length using inbuild function in C#
 
-
+// to find string length without using inbuild function , check stringlength1.cs
 using System;
 
 
