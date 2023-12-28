@@ -1,3 +1,5 @@
+// this program is about maximum function in C#.
+
 using System;
 
 namespace comparison3
