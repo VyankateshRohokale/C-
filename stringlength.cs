@@ -1,4 +1,8 @@
+// this program is about finding string length using inbuild function in C#
+
+
 using System;
+
 
 namespace string1
 {
