@@ -1,3 +1,5 @@
+// this is a program of logical not in C#.
+
 using System;
 
 namespace comparison3
