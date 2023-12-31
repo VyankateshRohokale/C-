@@ -1,3 +1,5 @@
+// input program
+
 using System;
 
 namespace userinput2
