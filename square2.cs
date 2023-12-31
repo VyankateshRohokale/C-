@@ -1,3 +1,5 @@
+// this program gives output as the square of the number entered by the user
+
 using System;
 
 namespace Mathss
