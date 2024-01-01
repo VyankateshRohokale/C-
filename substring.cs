@@ -1,3 +1,5 @@
+// this program is about substring
+
 using System;
 
 namespace subS
