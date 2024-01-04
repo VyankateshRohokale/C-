@@ -1,3 +1,6 @@
+// this program is about private access modifer
+
+
 using System;
 
 namespace program
