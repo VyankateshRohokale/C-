@@ -1,3 +1,5 @@
+// in this program we create a class...
+
 using System;
 
 namespace program
