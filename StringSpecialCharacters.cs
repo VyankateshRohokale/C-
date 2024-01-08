@@ -1,3 +1,5 @@
+// this is the program for special characters of string in C#.
+
 using System;
 
 namespace specialcharacter
