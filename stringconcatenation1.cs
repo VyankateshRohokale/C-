@@ -1,3 +1,5 @@
+// this program is about string concatenation in C Sharp.
+
 using System;
 
 namespace concatenation
