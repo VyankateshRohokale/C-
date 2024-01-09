@@ -1,8 +1,9 @@
 /* just like the previous file "BooleanExpression2.cs" we will print weather the 
     age entered by the user is applicable for voting
-*/
 
-// in this program we use real life example for Boolean Expression
+ in this program we use real life example for Boolean Expression
+
+*/
 
 using System;
 
