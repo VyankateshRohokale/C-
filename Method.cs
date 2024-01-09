@@ -1,3 +1,5 @@
+// this program is about method in C#
+
 using System;
 
 namespace methods
