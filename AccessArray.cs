@@ -4,6 +4,7 @@
 */
 using System;
 
+
 namespace array
 {
     class Array1
